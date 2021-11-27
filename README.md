@@ -1,14 +1,15 @@
 <div id="sobre"> 
   <h1>:purple_circle: To Do</h1>
   
-  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
   <p>
-    Este projeto foi o primeiro desafio do curso Ignite oferecido pela Rocketseat.
-    Consite em por em prática o que aprendemos durates o chapter I do curso:
-    - criar uma function de adição de tasks;
-    - criar uma function de remover task através do id;
-    - marcar como task completa através do id.
+    Este projeto foi o primeiro desafio do curso Ignite oferecido pela Rocketseat.</br>
+    Consite em por em prática o que aprendemos durates o chapter I do curso:</br>
+    - criar uma function de adição de tasks;</br>
+    - criar uma function de remover task através do id;</br>
+    - marcar como task completa através do id.</br>
   </p>
+  
+  <img src="https://github.com/WelliWillers/to-do-chapter-i/blob/main/public/Capa.png">
 </div>
 
 
